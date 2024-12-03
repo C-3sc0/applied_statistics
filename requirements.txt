@@ -1,0 +1,8 @@
+Pandas
+Matplotlib
+Numpy 
+Seaborn
+math
+itertools
+random
+scipy
