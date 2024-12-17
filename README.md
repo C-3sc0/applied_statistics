@@ -21,7 +21,7 @@ The final project focuses on analyzing the `PlantGrowth R dataset` to explore it
 
 ## How to download the Repository
 
-Access the provided link: [Tasks](hhttps://github.com/C-3sc0/applied_statistics/blob/main/tasks.ipynb), [Project](https://github.com/C-3sc0/applied_statistics/blob/main/project.ipynb) and select the `<> Code` button. There are two options for accessing the Jupyter Notebook:
+Access the provided link: [Tasks](https://github.com/C-3sc0/applied_statistics/blob/main/tasks.ipynb), [Project](https://github.com/C-3sc0/applied_statistics/blob/main/project.ipynb) and select the `<> Code` button. There are two options for accessing the Jupyter Notebook:
 
 - Download it as `ZIP file`;
 - clone the repository using the provided `HTTPS link` and integrate it into your local machine.
@@ -29,7 +29,7 @@ Access the provided link: [Tasks](hhttps://github.com/C-3sc0/applied_statistics/
 ## Repository's Content
 
 - A file named **README.md** file;
-- The [`tasks.ipynb`](hhttps://github.com/C-3sc0/applied_statistics/blob/main/tasks.ipynb) file;
+- The [`tasks.ipynb`](https://github.com/C-3sc0/applied_statistics/blob/main/tasks.ipynb) file;
 - The [`project.ipynb`](https://github.com/C-3sc0/applied_statistics/blob/main/project.ipynb) file;
 - A [`gitignore`](https://github.com/C-3sc0/applied_statistics/blob/main/.gitignore) file;
 - A [`requirement.txt`](https://github.com/C-3sc0/applied_statistics/blob/main/requirements.txt) file;
